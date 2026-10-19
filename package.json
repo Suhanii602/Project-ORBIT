@@ -1,0 +1,20 @@
+{
+  "name": "sat-globe",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "cesium": "^1.146.0",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.4",
+    "vite-plugin-cesium": "^1.2.23"
+  },
+  "dependencies": {
+    "satellite.js": "^7.1.0"
+  }
+}
