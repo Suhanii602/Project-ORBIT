@@ -9,12 +9,18 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@capacitor/cli": "^8.5.3",
+    "@types/three": "^0.186.0",
     "cesium": "^1.146.0",
     "typescript": "~7.0.2",
     "vite": "^8.3.4",
     "vite-plugin-cesium": "^1.2.23"
   },
   "dependencies": {
-    "satellite.js": "^7.1.0"
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "satellite.js": "^7.1.0",
+    "three": "^0.186.1",
+    "three-globe": "^2.45.6"
   }
 }
