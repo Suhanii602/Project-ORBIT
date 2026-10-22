@@ -2,7 +2,7 @@
 
 A web app that shows about 16,000 active satellites moving around a 3D Earth in real time. Click a satellite to see its altitude and speed, draw its orbit, predict when it passes over you, and compare plain SGP4 predictions with a machine-learning correction I trained.
 
-> **Status:** work in progress. See [Limitations](#limitations) before relying on any number in this README.
+> See [Limitations](#limitations) before relying on any number in this README.
 
 <!-- Add screenshots here, e.g. ![Desktop view](docs/desktop.png) ![Phone view](docs/phone.png) -->
 
